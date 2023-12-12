@@ -1,2 +1,2 @@
 # first-day-project
-For educational purposes
+For educational purposes, I think
